@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/modernportfolio-react-14800-e185a34e/modern_portfolio_frontend"
+}

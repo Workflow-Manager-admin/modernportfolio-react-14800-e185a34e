@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/modernportfolio-react-14800-e185a34e/modern_portfolio_frontend"
+}
